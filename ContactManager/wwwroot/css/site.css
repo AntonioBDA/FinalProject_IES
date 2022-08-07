@@ -1,0 +1,18 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 17px;
+  }
+}
+
+html {
+  position: center;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
